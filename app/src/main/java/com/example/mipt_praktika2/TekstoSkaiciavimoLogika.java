@@ -78,3 +78,4 @@ public class TekstoSkaiciavimoLogika {
         return count;
     }
 }
+
