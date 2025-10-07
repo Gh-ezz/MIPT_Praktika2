@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">MIPT_Praktika2</string>
+    <string name="app_name">Teksto Skaiciuotuvas</string>
+    <string name="hint_enter_text">Įveskite tekstą čia</string>
+    <string name="button_calculate">Skaičiuoti</string>
+    <string name="label_result">Rezultatas:</string>
+    <string name="toast_empty_text">Įvesties laukas negali būti tuščias</string>
+    <string name="result_format">%1$s: %2$d</string>
+
+    <string-array name="metrics_array">
+        <item>Sakiniai</item>
+        <item>Žodžiai</item>
+        <item>Skyrybos ženklai</item>
+        <item>Skaičiai</item>
+    </string-array>
 </resources>
